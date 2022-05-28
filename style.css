@@ -1,0 +1,35 @@
+*{
+    margin: auto;
+}
+header{
+    background-color: blue;
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+}
+nav{
+    background-color: blueviolet;
+    text-align: center;
+    height: 100px;
+    width: 100vw;
+}
+main{
+    background-color: brown;
+    text-align: center;
+    height: 100px;
+    width: 100vw;
+}
+footer{
+    background-color: cadetblue;
+    text-align: center;
+    height: 100px;
+    width: 100vw
+}
+div{
+    background-color: azure;
+    height:50px;
+    width: 50px;
+}
